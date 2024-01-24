@@ -4,7 +4,7 @@ const headers = {
     "Content-Type": "multipart/form-data"
 }
 
-const API_URI = 'http://localhost:8800';
+const API_URI = 'https://ups-net.onrender.com';
 
 export const getSignedUrl = async (data) => {
     try {

@@ -1,15 +1,17 @@
 /package-lock.json
-/FiverrTemplate/node_modules
-/FiverrTemplate/package-lock.json
+# /FiverrTemplate/node_modules
+# /FiverrTemplate/package-lock.json
 /api/node_modules
 /api/.env
-/FiverrTemplate/.env
+# /FiverrTemplate/.env
+/FiverrTemplate/
 
 
 package-lock.json
-FiverrTemplate/node_modules
-FiverrTemplate/package-lock.json
+# FiverrTemplate/node_modules
+# FiverrTemplate/package-lock.json
 api/node_modules
 api/.env
-FiverrTemplate/.env
+# FiverrTemplate/.env
+FiverrTemplate/
 

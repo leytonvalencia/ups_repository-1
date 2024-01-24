@@ -34,6 +34,7 @@ function Desktop_menu() {
             {open && <div className="options">
                 <Link className='link' to="/register">Completar perfil</Link>
                 <Link className='link'to="/mygigs">Mis publicaciones</Link>
+                <Link className='link'to="/uploadFiles">Upload Test</Link>
             </div>}
             </div>
             </>
