@@ -27,7 +27,7 @@ const app = express()
       }
 }
 
-app.use(cors({ origin: "https://ups-net.onrender.com", credentials: true }));
+app.use(cors({ origin: "https://upscodenest.cloud", credentials: true }));
 app.use(express.json());
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
