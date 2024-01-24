@@ -5,15 +5,15 @@ import axios from 'axios'
 //     withCredentials: true
 // })
 
-// const newRequest = axios.create({
-//     baseURL: "https://ups-net.onrender.com/api/",
-//     withCredentials: true
-// })
-
 const newRequest = axios.create({
-    baseURL: "https://codenest2.onrender.com/api/",
+    baseURL: "https://ups-net.onrender.com/api/",
     withCredentials: true
 })
+
+// const newRequest = axios.create({
+//     baseURL: "https://codenest2.onrender.com/api/",
+//     withCredentials: true
+// })
 
 export default newRequest;
 
