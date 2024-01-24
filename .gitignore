@@ -4,7 +4,7 @@
 /api/node_modules
 /api/.env
 # /FiverrTemplate/.env
-/FiverrTemplate/
+**FiverrTemplate/
 
 
 package-lock.json
